@@ -1,3 +1,11 @@
+---
+layout: post
+title: Automatically create Windows virtual machine images using Packer
+date: 2023-10-21
+categories:
+  - hashicorp
+---
+
 # Project: packer-vsphere-windows
 
 The project contains a directory of files for automatically creating images of virtual machines based on Windows operating systems using Packer, including configuration files, configuration scripts, and image build scripts
