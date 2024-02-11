@@ -22,9 +22,9 @@ Packer - это инструмент от компании HashiCorp, котор
 
 В репозитории следующая структура:
 
-<img allign="left" alt="img" src="https://raw.githubusercontent.com/IVAndr0n/packer-vsphere-windows/main/images/2023-10-21-packer-vsphere-windows/01.png" width="600">
+<img allign="left" alt="img" src="https://raw.githubusercontent.com/IVAndr0n/packer-vsphere-windows/main/images/01.png" width="545">
 
-```sh
+<!-- ```sh
 $ tree --dirsfirst -F
 .
 ├── add/
@@ -70,7 +70,7 @@ $ tree --dirsfirst -F
 └── windows-server-2022-std-x64_vsphere.pkrvar.hcl
 
 5 directories, 36 files
-```
+``` -->
 
 ### Процесс создания образа виртуальной машины с операционной системой Windows для платформы vSphere
 
