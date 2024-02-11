@@ -22,7 +22,7 @@ Packer - это инструмент от компании HashiCorp, котор
 
 В репозитории следующая структура:
 
-<img allign="left" alt="img" src="images/2023-10-21-packer-vsphere-windows/01.png" width="370">
+<img allign="left" alt="img" src="https://raw.githubusercontent.com/IVAndr0n/packer-vsphere-windows/main/images/2023-10-21-packer-vsphere-windows/01.png" width="600">
 
 ```sh
 $ tree --dirsfirst -F
